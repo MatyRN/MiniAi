@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1675226885 source:c:\users\matias reimondez\documents\proyectosdeprogramacion\ia\main.cpp
+	<iostream>
+	"WINDOW.cpp"
+
+1675772577 c:\users\matias reimondez\documents\proyectosdeprogramacion\ia\window.h
+	<Windows.h>
+	<string>
+	<stdio.h>
+	<string.h>
+
+1675866626 c:\users\matias reimondez\documents\proyectosdeprogramacion\ia\window.cpp
+	"WINDOW.h"
+
+1675173879 c:\users\matias reimondez\documents\proyectosdeprogramacion\ia\inteligenceai.cpp
+	"InteligenceAI.h"
+
+1675219626 c:\users\matias reimondez\documents\proyectosdeprogramacion\ia\inteligenceai.h
+	<string>
+	"WINDOW.h"
+
